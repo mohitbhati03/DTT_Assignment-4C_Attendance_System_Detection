@@ -1,5 +1,9 @@
 # Assignment 4(C) – Attendance Detection System
 
+## 🔗 Links
+
+- **DTT Workspace:** [https://dtt-workspace03.vercel.app/](https://dtt-workspace03.vercel.app/)
+
 ---
 
 ## Project Overview
